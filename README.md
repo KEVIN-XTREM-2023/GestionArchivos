@@ -8,7 +8,7 @@
 <img src="https://cdn.icon-icons.com/icons2/7/PNG/128/filesystems_thetarfolder_640.png" alt="VB." width="200">
 </center>
 
-Sistema de Gestión de  carpetas y Archivos versión 2.1 (Filesystem) sirve para almacenar, compartir y gestionar todos los documentos de archivo de un determinado establecimiento o institución. Pueden utilizar para escuelas, oficinas o cualquier establecimiento que necesite administrar y almacenar sus documentos de archivo, se agregó muchas funcionalidades. Maneja niveles/roles de usuario, desarrollado e PHP y MYSQL.  
+Sistema de Gestión de  carpetas y Archivos versión 2.1 sirve para almacenar, compartir y gestionar todos los documentos de archivo de un determinado establecimiento o institución. Pueden utilizar para escuelas, oficinas o cualquier establecimiento que necesite administrar y almacenar sus documentos de archivo, se agregó muchas funcionalidades. Maneja niveles/roles de usuario, desarrollado e PHP y MYSQL.  
 
 
 
